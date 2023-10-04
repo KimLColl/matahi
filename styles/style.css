@@ -1,0 +1,27 @@
+* {
+    padding:0px;
+    margin:0px;
+  }
+  
+  header {
+    display:flex;
+    background-color: black;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  footer {
+    display:flex;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+  }
